@@ -8,6 +8,6 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 ## Configurations
 
-Run `npm install primeng@16.0.0` to install PrimeNG.
+Run `npm install primeng@17.0.0` to install PrimeNG.
 Run `npm install chart.js@^3.9.1` to install Chart.js dependencies.
 
