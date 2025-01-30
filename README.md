@@ -1,4 +1,4 @@
-# PrimengAngular17
+# PrimeNG Chart Angular 17 (em desenvolvimento)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.10.
 
@@ -9,5 +9,6 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 ## Configurations
 
 Run `npm install primeng@17.0.0` to install PrimeNG.
+
 Run `npm install chart.js@^3.9.1` to install Chart.js dependencies.
 
