@@ -16,7 +16,7 @@ export class HorizontalBarChartComponent {
     datasets: [
         {
             label: 'Booked',
-            backgroundColor: 'green',
+            backgroundColor: '#326fd1',
             data: [66, 49, 81, 71, 26, 65, 60]
         },
 
