@@ -12,3 +12,8 @@ Run `npm install primeng@17.0.0` to install PrimeNG.
 
 Run `npm install chart.js@^3.9.1` to install Chart.js dependencies.
 
+## Screenshots
+
+Charts type vertical bar, horizontal bar, donut and half donut:
+
+![Gráficos PrimeNG Charts](./src/assets/graficos-primeng-charts-angular-17-Cida-Luna.PNG)
